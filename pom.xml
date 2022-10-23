@@ -39,10 +39,18 @@
             <version>1.7.30</version>
         </dependency>
 
+        <!-- 如果需要支持支付宝支付 -->
         <dependency>
             <groupId>com.alipay.sdk</groupId>
             <artifactId>alipay-sdk-java</artifactId>
             <version>3.6.0.ALL</version>
+        </dependency>
+
+        <!-- 如果需要支持微信支付 -->
+        <dependency>
+            <groupId>com.github.binarywang</groupId>
+            <artifactId>weixin-java-pay</artifactId>
+            <version>4.4.0</version>
         </dependency>
     </dependencies>
 
