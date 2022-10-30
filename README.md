@@ -1,5 +1,5 @@
 # unipay-demo
 
-demo project for unipay
+Demo project for unipay
 
-demo 代码，请移步 master 分支查看。
+Demo 代码，请移步 [master](https://github.com/isaltyfish/unipay-demo/tree/master) 分支查看。
